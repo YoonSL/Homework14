@@ -110,4 +110,12 @@ body {
     font-family: "Noto Sans TC", sans-serif;
     font-weight: 200;
   }
+  #todoInput {
+    position: absolute;
+    bottom: 30px;
+  }
+  .todoGrid {
+    position: absolute;
+    top: 10px;
+  }
 }
